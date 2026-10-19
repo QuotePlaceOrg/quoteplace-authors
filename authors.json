@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "aristotle",
+    "name": "Aristotle",
+    "born": "384 BCE",
+    "died": "322 BCE",
+    "role": "Greek philosopher",
+    "bio": "Aristotle was a Greek philosopher, a student of Plato and the teacher of Alexander the Great. He wrote on logic, ethics, politics, biology, and poetry, and founded the Lyceum in Athens. His works, including the Nicomachean Ethics and the Politics, shaped Western thought for more than two thousand years.",
+    "quotes": [{ "text": "Well begun is half done.", "category": "Action" }]
+  },
+  {
+    "slug": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "born": "1918",
+    "died": "2013",
+    "role": "South African statesman",
+    "bio": "Nelson Mandela was a South African anti-apartheid revolutionary and politician. He spent 27 years in prison for opposing apartheid, then became South Africa's first Black president (1994-1999). He won the Nobel Peace Prize in 1993 for leading the country's peaceful transition to democracy.",
+    "quotes": [{ "text": "It always seems impossible until it's done.", "category": "Courage" }]
+  },
+  {
+    "slug": "robert-frost",
+    "name": "Robert Frost",
+    "born": "1874",
+    "died": "1963",
+    "role": "American poet",
+    "bio": "Robert Frost was an American poet known for plainspoken verse about rural New England life. He won four Pulitzer Prizes for Poetry, more than any other poet, for collections including North of Boston and New Hampshire. His poems use everyday speech to explore work, nature, and difficult choices.",
+    "quotes": [{ "text": "The only way out is through.", "category": "Courage" }]
+  },
+  {
+    "slug": "will-durant",
+    "name": "Will Durant",
+    "born": "1885",
+    "died": "1981",
+    "role": "American historian and philosopher",
+    "bio": "Will Durant was an American historian and philosopher who wrote for general readers, not just scholars. With his wife Ariel Durant he wrote the 11-volume The Story of Civilization, which won the Pulitzer Prize for General Nonfiction in 1968. His best-known books make philosophy and history readable for everyone.",
+    "quotes": [{ "text": "We are what we repeatedly do.", "category": "Habits" }]
+  },
+  {
+    "slug": "marie-curie",
+    "name": "Marie Curie",
+    "born": "1867",
+    "died": "1934",
+    "role": "Physicist and chemist",
+    "bio": "Marie Curie was a Polish-born physicist and chemist who pioneered research on radioactivity. She is the only person to win Nobel Prizes in two different sciences: Physics (1903) and Chemistry (1911). With her husband Pierre Curie she discovered the elements polonium and radium.",
+    "quotes": [{ "text": "Nothing in life is to be feared, only understood.", "category": "Courage" }]
+  },
+  {
+    "slug": "theodore-roosevelt",
+    "name": "Theodore Roosevelt",
+    "born": "1858",
+    "died": "1919",
+    "role": "26th President of the United States",
+    "bio": "Theodore Roosevelt was the 26th President of the United States (1901-1909). He was known for breaking up trusts, protecting land as national parks and forests, and building the Panama Canal. He won the Nobel Peace Prize in 1906 for mediating the end of the Russo-Japanese War.",
+    "quotes": [{ "text": "Do what you can, with what you have, where you are.", "category": "Action" }]
+  },
+  {
+    "slug": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "born": "1809",
+    "died": "1865",
+    "role": "16th President of the United States",
+    "bio": "Abraham Lincoln was the 16th President of the United States (1861-1865). He led the country through the Civil War, issued the Emancipation Proclamation, and delivered the Gettysburg Address. He was assassinated in 1865, weeks after the war ended.",
+    "quotes": [{ "text": "Whatever you are, be a good one.", "category": "Life" }]
+  },
+  {
+    "slug": "jrr-tolkien",
+    "name": "J.R.R. Tolkien",
+    "born": "1892",
+    "died": "1973",
+    "role": "English writer and scholar",
+    "bio": "J.R.R. Tolkien was an English writer and Oxford professor of Anglo-Saxon. He wrote The Hobbit (1937) and The Lord of the Rings (1954-55), books that shaped modern fantasy literature. He was also a scholar of Old English and Norse literature who invented entire languages for his stories.",
+    "quotes": [{ "text": "Not all those who wander are lost.", "category": "Life" }]
+  },
+  {
+    "slug": "socrates",
+    "name": "Socrates",
+    "born": "c. 470 BCE",
+    "died": "399 BCE",
+    "role": "Greek philosopher",
+    "bio": "Socrates was a Greek philosopher and one of the founders of Western philosophy. He wrote nothing himself; his thought survives mainly through the dialogues of his student Plato. He is known for the Socratic method, questioning assumptions through dialogue. He was tried in Athens and sentenced to death, dying by drinking hemlock.",
+    "quotes": [{ "text": "The unexamined life is not worth living.", "category": "Wisdom" }]
+  },
+  {
+    "slug": "japanese-proverb",
+    "name": "Japanese proverb",
+    "born": "",
+    "died": "",
+    "role": "Traditional proverb",
+    "bio": "A traditional Japanese saying with no single author. 'Fall seven times, stand up eight' (Nanakorobi yaoki) expresses resilience: no matter how often you fall, you rise one more time.",
+    "quotes": [{ "text": "Fall seven times, stand up eight.", "category": "Courage" }]
+  },
+  {
+    "slug": "friedrich-nietzsche",
+    "name": "Friedrich Nietzsche",
+    "born": "1844",
+    "died": "1900",
+    "role": "German philosopher",
+    "bio": "Friedrich Nietzsche was a German philosopher who wrote Thus Spoke Zarathustra, Beyond Good and Evil, and On the Genealogy of Morals. His ideas about the 'will to power', the 'Ubermensch', and the 'death of God' influenced philosophy, psychology, and literature long after his death.",
+    "quotes": [{ "text": "He who has a why can bear almost any how.", "category": "Wisdom" }]
+  },
+  {
+    "slug": "peter-marshall",
+    "name": "Peter Marshall",
+    "born": "1902",
+    "died": "1949",
+    "role": "Scottish-American preacher",
+    "bio": "Peter Marshall was a Scottish-American preacher who served as Chaplain of the United States Senate (1947-1949). He was known for vivid, plainspoken sermons. His life was told in the book and film A Man Called Peter.",
+    "quotes": [{ "text": "A small deed done is better than a great deed planned.", "category": "Action" }]
+  },
+  {
+    "slug": "ma-jaya-sati-bhagavati",
+    "name": "Ma Jaya Sati Bhagavati",
+    "born": "1940",
+    "died": "2012",
+    "role": "American spiritual teacher",
+    "bio": "Ma Jaya Sati Bhagavati was an American spiritual teacher. Born Joyce Green in Brooklyn, she founded Kashi Ashram in Florida and taught a blend of meditation, yoga, and service. She emphasized compassion and daily spiritual practice.",
+    "quotes": [{ "text": "Quiet the mind, and the soul will speak.", "category": "Calm" }]
+  },
+  {
+    "slug": "lao-tzu",
+    "name": "Lao Tzu",
+    "born": "6th century BCE (traditional)",
+    "died": "",
+    "role": "Chinese philosopher",
+    "bio": "Lao Tzu is the Chinese philosopher traditionally credited with founding Taoism and writing the Tao Te Ching, a short text on living in harmony with the Tao ('the Way'). Historians debate whether he was one person, but the Tao Te Ching remains one of the most translated books in the world.",
+    "quotes": [{ "text": "Nature does not hurry, yet everything is accomplished.", "category": "Calm" }]
+  },
+  {
+    "slug": "jon-kabat-zinn",
+    "name": "Jon Kabat-Zinn",
+    "born": "1944",
+    "died": "",
+    "role": "American professor and author",
+    "bio": "Jon Kabat-Zinn is an American professor and author who created Mindfulness-Based Stress Reduction (MBSR) at the University of Massachusetts Medical Center in 1979. His work brought mindfulness meditation into mainstream medicine. He is the author of Full Catastrophe Living.",
+    "quotes": [{ "text": "You can't stop the waves, but you can learn to surf.", "category": "Calm" }]
+  },
+  {
+    "slug": "anonymous",
+    "name": "Anonymous",
+    "born": "",
+    "died": "",
+    "role": "Unknown author",
+    "bio": "No single author. This quote circulates without a known source.",
+    "quotes": [{ "text": "Small habits, repeated daily, become who you are.", "category": "Habits" }]
+  },
+  {
+    "slug": "chinese-proverb",
+    "name": "Chinese proverb",
+    "born": "",
+    "died": "",
+    "role": "Traditional proverb",
+    "bio": "A traditional Chinese saying with no single author. A widely repeated proverb about starting now rather than regretting lost time.",
+    "quotes": [{ "text": "The best time to plant a tree was twenty years ago. The second best is now.", "category": "Action" }]
+  },
+  {
+    "slug": "ian-maclaren",
+    "name": "Ian Maclaren",
+    "born": "1850",
+    "died": "1907",
+    "role": "Scottish author and minister",
+    "bio": "Ian Maclaren was the pen name of John Watson, a Scottish minister and author. His stories of Scottish village life, beginning with Beside the Bonnie Brier Bush (1894), were bestsellers in his day. The line about kindness is widely attributed to him.",
+    "quotes": [{ "text": "Be kind, for everyone you meet is fighting a hard battle.", "category": "Life" }]
+  }
+]
